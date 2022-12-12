@@ -12,7 +12,7 @@ Config.BennysItems = {}
 
 Config.Alert = 'qb-dispatch' -- qb-dispatch / linden_outlawalert / notification, only use qb-dispatch when its on stable release
 
-Config.Inventory = 'qb-inventory/html/images/' -- qb-inventory/html/images/
+Config.Inventory = 'lj-inventory/html/images/' -- lj-inventory/html/images/
 
 Config.MinimumPolice = 0 -- Minimum police
 
